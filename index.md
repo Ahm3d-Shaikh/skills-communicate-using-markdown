@@ -1,7 +1,3 @@
-```python
-a = 10
-for i in range(0,5):
-  a += 5
-
-print("Sum: ", a)
-```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
